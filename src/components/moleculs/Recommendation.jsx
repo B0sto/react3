@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../atoms/Header";
-import Ad from "../atoms/ad";
+import Ad from "../atoms/Ad";
 import CheckboxIcon from "../atoms/CheckboxIcon";
 import Description from "../atoms/Description";
 import Email from "../atoms/Email";
